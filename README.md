@@ -4,6 +4,6 @@
 
 Адрес репозитория: https://github.com/Yaroslav-Chertov/movies-explorer-api
 
-IP
+IP: 51.250.89.181
 
-Backend https://
+Backend https://api.yaroslav.movies.nomoredomains.xyz
